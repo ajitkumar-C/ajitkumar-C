@@ -7,7 +7,7 @@ I'm
 learning Full Stack Web Development skills that include back-end development using open source technologies (NodeJs, Python), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator( Azure),database(MongoDB)
 
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/ajitkumar-C/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
